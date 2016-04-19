@@ -1,0 +1,28 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "ca.edumedia.dale0106.myApp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "ca.edumedia.dale0106.myApp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ca.edumedia.dale0106.myApp"
+        },
+        "flyacts-plugin-barcodescanner": {
+            "PACKAGE_NAME": "ca.edumedia.dale0106.myApp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "ca.edumedia.dale0106.myApp"
+        }
+    }
+}
